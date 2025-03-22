@@ -1,0 +1,21 @@
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.hprof
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle-cache/
+.gradle-cache-v2/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
